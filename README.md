@@ -16,3 +16,5 @@
 
 ## Quarta Tela
 - Visualização do burndown.
+
+![img](bso.png)
