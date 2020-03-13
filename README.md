@@ -1,3 +1,5 @@
+# BSO - BoraSeOrganizar
+
 ## Tela Principal
 - Lista de todos os projetos que o usuário se encontra.
 - Botão de criação de novo projeto.
