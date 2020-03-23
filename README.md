@@ -9,12 +9,15 @@
 - Ao abrir um dos projetos ele verá uma lista ordenada pela data de todas as sprints já criadas.
 - Botão para cadastrar sprint.
 - Botão para ver/editar backlog.
+- Gráfico de dados da equipe.
+- Lista dos membros da equipe.
+- Visualização do burndown.
 
 ## Terceira Tela
 - Cadastro de Tasks para uma US.
 - Visualização do dashboard.
 
 ## Quarta Tela
-- Visualização do burndown.
+- Lista de colegas.
 
 ![img](bso.png)
